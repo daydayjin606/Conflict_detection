@@ -24,7 +24,7 @@ Figure 3 presents an ensemble method designed for traffic event prediction using
 
 Figure 3 Ensemble Method
 
-# Model Performance
+# Model Results
 The results on the testing set are promising, achieving 91% detection accuracy, 84% precision, and 81% F1 score, outperforming models trained on all images together. A key advantage of our approach lies in its efficiency during inference without trajectory processing, requiring only milliseconds, thus enabling real-time conflict detection. Additionally, this method avoids data heterogeneity issues from diverse sensor inputs. This work opens up opportunities for large-scale real-time conflict computation, which is critical for intelligent urban traffic safety management solutions.
 
 ![image](images/Figure4_performance.jpg)
